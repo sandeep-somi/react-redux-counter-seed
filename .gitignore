@@ -1,0 +1,17 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.DS_STORE
+*.log
+
+node_modules
+*/**/bower_components
+
+build
+dist
+*.swp
+tags
+tmp
+*.woff*
+bundle.js
+
+dist
+node_modules

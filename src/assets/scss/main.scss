@@ -1,0 +1,41 @@
+.inner-col {
+    text-align: center;
+    padding-top: 308px;
+    button{
+      border-radius: 0px;
+      box-shadow: 0px 0px 33px -4px #948989;
+      font-weight: 600;
+      border: 2px solid white;
+      color: #fff
+    }
+    h1{
+      font-weight: 800;
+      text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+    	color: #9c8468;
+    	font-size: 200px;
+    }
+}
+
+#app {
+    height: 100vh;
+    background: #f9f5f5;
+}
+
+.header{
+  h5{
+    font-weight: 600;
+    text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+  	color: #9c8468;
+  	opacity: 0.3;
+  	font: 20px 'Museo700';
+  }
+}
+.footer{
+  h5{
+    font-weight: 600;
+    text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+  	color: #9c8468;
+  	opacity: 0.3;
+  	font: 20px 'Museo700';
+  }
+}
